@@ -1,2 +1,2 @@
 # disala-back
-# disala-back
+npm i && npm start
